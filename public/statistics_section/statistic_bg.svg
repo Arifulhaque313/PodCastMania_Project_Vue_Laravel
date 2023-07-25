@@ -1,0 +1,42 @@
+<svg width="1440" height="919" viewBox="0 0 1440 919" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_184_3271)">
+<rect width="1440" height="919" fill="white"/>
+<rect width="1440" height="919" fill="#F3FAFC"/>
+<path d="M674 598.877V672.817" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M706 428.017V845.676" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M737 529.934V741.761" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M769 434.012V837.682" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M799 586.887V685.806" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M831 518.942V752.751" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M862 457.992V813.702" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M893 497.959V773.734" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M924 605.871V665.822" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M581 605.871V665.822" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M955 605.871V665.822" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M612 605.871V665.822" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M987 576.895V694.799" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M644 576.895V694.799" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M1018 440.007V831.687" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M1049 439.007V832.686" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M1080 510.949V760.745" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M1112 449.999V821.695" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M1143 530.933V740.761" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M1173 463.987V807.707" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M1205 569.9V701.793" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M1236 605.871V665.822" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M1268 487.968V783.726" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M1298 449.999V821.695" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M1330 449.999V821.695" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<path d="M1361 540.924V730.769" stroke="#E5F2F8" stroke-width="15" stroke-linecap="round"/>
+<ellipse cx="492.5" cy="569.5" rx="564.5" ry="437.5" fill="url(#paint0_radial_184_3271)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_184_3271" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(492.5 569.5) rotate(90) scale(510.5 681.062)">
+<stop stop-color="#02A5F4" stop-opacity="0.47"/>
+<stop offset="0.866385" stop-color="#A3B2C9" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_184_3271">
+<rect width="1440" height="919" fill="white"/>
+</clipPath>
+</defs>
+</svg>

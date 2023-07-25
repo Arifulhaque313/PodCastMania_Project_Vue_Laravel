@@ -1,0 +1,1 @@
+import{H as o,L as s,o as t,e as a,a as e}from"./app.266ad528.js";import{_ as c}from"./_plugin-vue_export-helper.cdc0426e.js";const n={name:"welcometwo",components:{Head:o,Link:s}},r=e("h1",null,"This is Blog page",-1),_=e("a",{href:"/"},"back",-1),i=[r,_];function l(p,d,m,f,h,u){return t(),a("div",null,i)}const $=c(n,[["render",l]]);export{$ as default};
